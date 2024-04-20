@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "roman_numeral_converter_3077/1.0.0": {
+        "runtime": {
+          "roman_numeral_converter_3077.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "roman_numeral_converter_3077/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

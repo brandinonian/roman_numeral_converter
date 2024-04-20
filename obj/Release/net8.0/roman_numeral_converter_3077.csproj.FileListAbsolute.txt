@@ -1,0 +1,14 @@
+C:\Users\brand\dev\roman_numeral_converter_3077\bin\Release\net8.0\roman_numeral_converter_3077.exe
+C:\Users\brand\dev\roman_numeral_converter_3077\bin\Release\net8.0\roman_numeral_converter_3077.deps.json
+C:\Users\brand\dev\roman_numeral_converter_3077\bin\Release\net8.0\roman_numeral_converter_3077.runtimeconfig.json
+C:\Users\brand\dev\roman_numeral_converter_3077\bin\Release\net8.0\roman_numeral_converter_3077.dll
+C:\Users\brand\dev\roman_numeral_converter_3077\bin\Release\net8.0\roman_numeral_converter_3077.pdb
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\roman_numeral_converter_3077.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\roman_numeral_converter_3077.AssemblyInfoInputs.cache
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\roman_numeral_converter_3077.AssemblyInfo.cs
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\roman_numeral_converter_3077.csproj.CoreCompileInputs.cache
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\roman_numeral_converter_3077.dll
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\refint\roman_numeral_converter_3077.dll
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\roman_numeral_converter_3077.pdb
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\roman_numeral_converter_3077.genruntimeconfig.cache
+C:\Users\brand\dev\roman_numeral_converter_3077\obj\Release\net8.0\ref\roman_numeral_converter_3077.dll
